@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**falcas92/falcas92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hello, I'm Filipe Falcão 👋
+# Hello, I'm Filipe Falcão 👋
 
 I'm a Future doctorate in applied health sciences with abilities in data analytics. I'm passionate about statistics, data analysis, psychometrics and data-science in general. Welcome to my GitHub profile!
 
@@ -32,5 +27,3 @@ I'm a Future doctorate in applied health sciences with abilities in data analyti
 - 🎶 Fun Fact: I meditate at least 20 min every single day.
 
 Feel free to explore my repositories and get in touch! 😄
-
--->
