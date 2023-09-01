@@ -4,7 +4,7 @@ I'm a Future doctorate in applied health sciences with abilities in data analyti
 
 ## About Me
 
-- 🌍 Location: Porto
+- 🌍 Location: Porto, PT
 - 💼 Current Job: PhD researcher
 - 🎓 Education: MSc in Psychology; University of Porto
 - 💻 Languages: R; Python; SQL
