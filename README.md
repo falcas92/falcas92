@@ -19,7 +19,7 @@ I'm a Future doctorate in applied health sciences with abilities in data analyti
 
 ## Connect with Me
 
-- 💼 Connect with me on [LinkedIn]([ithub.io.](https://www.linkedin.com/in/filipe-falc%C3%A3o-b2aa18138/))
+- 💼 Connect with me on [Linkedin]([url](https://www.linkedin.com/in/filipe-falc%C3%A3o-b2aa18138/))
 
 
 ## Fun Fact
