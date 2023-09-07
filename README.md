@@ -24,6 +24,6 @@ I'm a Future doctorate in applied health sciences with abilities in data analyti
 
 ## Fun Fact
 
-- 🎶 Fun Fact: I meditate at least 20 min every single day.
+- 🎶 Fun Fact: I meditate at least 30 min every single day.
 
 Feel free to explore my repositories and get in touch! 😄
